@@ -1,9 +1,9 @@
 import { getPosts, getRandomPic } from './helpers.js';
-
+//tes
 const elDaftarBerita = document.querySelector('#daftar-berita');
 
 /**
- *
+ *tessdddeeeeeeeejwkjk
  * @param {String} thumbnail => url yang kita ambil menggunakan Unsplash API
  * @param {Object} post => object post yang kita ambil dari jsonplaceholder API
  * @returns DOM Element
